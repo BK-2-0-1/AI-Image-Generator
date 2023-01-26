@@ -25,7 +25,7 @@ const Home = () => {
 
     try {
       const response = await fetch(
-        'https://dalle-arbb.onrender.com/api/v1/post',
+        'https://ai-image-generator-d0es.onrender.com/api/v1/post',
         {
           method: 'GET',
           headers: {
